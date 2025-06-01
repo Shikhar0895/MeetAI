@@ -8,7 +8,7 @@ export default function Home() {
       
       <h1 className="text-8xl text-white">
       Hello world
-<CustomButton title="Subscribe" variant={"destructive"}/>
+{/* <CustomButton title="Subscribe" variant={"destructive"}/> */}
       </h1>
       
       
